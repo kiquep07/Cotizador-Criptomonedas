@@ -2,5 +2,5 @@
 [https://cotizadorcriptomonedas-2021.netlify.app/](https://cotizadorcriptomonedas-2021.netlify.app/)
 
 - App que permite cotizar distintas criptomonedas.
-- Ofrece el valor según la modena que el usuario elija.
+- Ofrece el valor según la moneda que el usuario elija.
 - También ofrece infomación sobre la ultima actualización realizada por el usuario y variaciones de la criptomoneda.
